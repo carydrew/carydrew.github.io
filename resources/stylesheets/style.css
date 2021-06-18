@@ -1,0 +1,41 @@
+body {
+    background-position: center top;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 72px;
+    font-weight: 1; 
+    color: white;
+}
+h1.title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 72px;
+    font-weight: 1; 
+    color: whitesmoke;
+}
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: 1;
+}
+.about {
+    display: block;
+    text-align: left;
+}
+.about-me {
+    display: inline-block;
+    clear: right;
+}
+#about-pic {
+    clear: left;
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+}
+#top-pic {
+    max-width: 100%;
+    max-height: 50%;
+}
