@@ -42,6 +42,12 @@ p {
     color: rgb(28, 181, 192);
     font-size: 42px;
     text-align: center;
+    margin-right: 415px;
+}
+.sub-title {
+    color: rgb(28, 181, 192);
+    font-size: 42px;
+    text-align: center;
 }
 #top-pic {
     max-width: 100%;
@@ -50,4 +56,11 @@ p {
 footer {
     font-size: 12px;
     position: relative;
+}
+.insta-pics {
+    opacity: 1;
+}
+.insta-pic-content {
+    display: inline-block;
+    padding: 5px;
 }
