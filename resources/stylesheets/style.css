@@ -15,27 +15,39 @@ h1.title {
     font-size: 72px;
     font-weight: 1; 
     color: whitesmoke;
+    margin: 0px 0px 20px 0px;
 }
 p {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
     font-weight: 1;
 }
-.about {
-    display: block;
-    text-align: left;
-}
 .about-me {
-    display: inline-block;
-    clear: right;
+    text-align: center;
+    margin: 10px;
+    overflow: auto;
 }
-#about-pic {
-    clear: left;
-    width: 20%;
-    height: 20%;
-    display: inline-block;
+.about-content {
+    margin-left: 400px;
+}
+.about-pic {
+    float: left;
+}
+.about-pic img {
+    display: block;
+    max-height: 400px;
+    max-width: 400px;
+}
+.about-title {
+    color: rgb(28, 181, 192);
+    font-size: 42px;
+    text-align: center;
 }
 #top-pic {
     max-width: 100%;
     max-height: 50%;
+}
+footer {
+    font-size: 12px;
+    position: relative;
 }
