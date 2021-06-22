@@ -63,7 +63,7 @@ footer {
 .insta-pics {
     width: 100%;
 }
-.insta-pics .image-container {
+.insta-pics .image-container .instagram-media{
     display: inline-block;
     width: 30%;
 }
