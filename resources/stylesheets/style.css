@@ -61,9 +61,9 @@ footer {
     position: relative;
 }
 .insta-pics {
-    opacity: 1;
+    width: 100%;
 }
-.insta-pic-content {
+.insta-pics .image-container {
     display: inline-block;
-    padding: 5px;
+    width: 30%;
 }
