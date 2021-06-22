@@ -84,6 +84,7 @@ footer {
     height: auto;
     width: 32%;
     justify-content: space-between;
+    align-items: stretch;
 } 
 
 @media screen and (max-width: 480px),(orientation: portrait) {
